@@ -201,3 +201,24 @@ content = """
 - 据老师说，之前这门课是有考试的，2026 年是第一次没有考试，但不排除后续会有考试的可能，选择时建议提前看看教学大纲。
 """
 author = { name = "SpeechlessPanda", link = "https://github.com/SpeechlessPanda", date = "2026-06" }
+
+[[courses]]
+name = "相对论物理及其应用"
+
+[[courses.teachers]]
+name = "沈超"
+
+[[courses.teachers.reviews]]
+content = "一位德高望重的老教授，对待学生相当严肃，但偶尔会敲打一下不认真的同学。上课时可以放松心态，不用太紧张。"
+
+[[courses.sections]]
+title = "课程概况"
+
+[[courses.sections.items]]
+content = """
+- 没有考勤，老师一般就在讲台上一路讲下去，但偶尔会点名让人回答问题——即使答不上来（其实大概率答不上来）也不会为难你。
+- 课程形式以讲授为主。
+- 作业相对比较多，2025年秋季学期一共布置了11次作业，大多数作业不会超过5道题，而且也仅此而已了（是的，没有期中期末论文或考试）。经测试，这些作业用2025年的豆包即可胜任，难度不算高。
+- 给分非常宽松，只要认真完成作业就没有人挂科，得分普遍很高。
+"""
+author = { name = "Kyn", link = "https://github.com/dicnYue", date = "2026-08" }
