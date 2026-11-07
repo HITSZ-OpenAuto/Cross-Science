@@ -1,0 +1,57 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 552,
+    "time": 1794022935,
+    "hash": "29e7a6388bf33a76093b0b4d043494b12f99bd3c"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1775305145,
+    "hash": "19aaac4f0c79b0cf3e68be17c0618b505e8b5b4f"
+  },
+  "README.md": {
+    "size": 10227,
+    "time": 1786824372,
+    "hash": "d18b760e9f136c91f339c1009203086830499e7d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1775305145,
+    "hash": "19aaac4f0c79b0cf3e68be17c0618b505e8b5b4f"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1775305145,
+    "hash": "19aaac4f0c79b0cf3e68be17c0618b505e8b5b4f"
+  },
+  "exams/量子力学/量子力学2025秋期末.pdf": {
+    "size": 89975,
+    "time": 1785509894,
+    "hash": "14004be82ead3cc47867565f0d37fd9cf8c0f9a9"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1775305145,
+    "hash": "19aaac4f0c79b0cf3e68be17c0618b505e8b5b4f"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1775305145,
+    "hash": "19aaac4f0c79b0cf3e68be17c0618b505e8b5b4f"
+  },
+  "notes/2026_ChenChen_电动力学个人笔记.pdf": {
+    "size": 3859158,
+    "time": 1781832739,
+    "hash": "97c97a8bb3514ac90d3e960d5dce0d6188e3299d"
+  },
+  "readme.toml": {
+    "size": 11371,
+    "time": 1786824372,
+    "hash": "d18b760e9f136c91f339c1009203086830499e7d"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1775305145,
+    "hash": "19aaac4f0c79b0cf3e68be17c0618b505e8b5b4f"
+  }
+}
